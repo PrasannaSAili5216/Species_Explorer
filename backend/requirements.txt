@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+tensorflow
+Pillow
+python-multipart
+passlib[bcrypt]
+python-jose[cryptography]
+SQLAlchemy
+
+python-dotenv
