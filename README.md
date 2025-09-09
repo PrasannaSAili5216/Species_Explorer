@@ -1,7 +1,7 @@
 
 **Home Page:**
 
-![Home Page](./Home%20Page%20.png
+![Home Page](./Home%20Page%20.png)
 
 # Species_Explorer
 
