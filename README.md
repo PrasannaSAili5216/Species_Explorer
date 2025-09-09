@@ -84,8 +84,6 @@ From the `backend` directory, run the following command to start the FastAPI ser
 uvicorn main:app --reload
 ```
 
-The backend API will be available at `http://127.0.0.1:8000`.
-
 **2. Start the Frontend Development Server:**
 
 From the `frontend` directory, run the following command:
